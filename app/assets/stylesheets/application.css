@@ -15,6 +15,7 @@
  */
 .container {
  padding-top: 20px;
+ margin-right: 40px;
 }
 
 .title {
@@ -32,8 +33,15 @@
   margin-left: 40px;
   margin-top: 50px;
   border-left: solid grey;
+  background-color: blanchedalmond;
+  margin-right: 250px;
 }
 
-.link {
+.link a {
   margin-left: 40px;
+  text-decoration: none;
+}
+
+form {
+  margin-right: 150px;
 }
